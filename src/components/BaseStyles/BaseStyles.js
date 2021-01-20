@@ -5,8 +5,8 @@ import { PublicUrl } from '../../providers/PublicUrl'
 import {
   INTER_FONT_FAMILY,
   BAIJAMJUREE_FONT_FAMILY,
-  DEFAULT_FONT_FAMILY,
-  MONOSPACE_FONT_FAMILY,
+  // DEFAULT_FONT_FAMILY,
+  // MONOSPACE_FONT_FAMILY,
 } from '../../utils'
 import { textStyle } from '../../style'
 import { useTheme } from '../../theme'
