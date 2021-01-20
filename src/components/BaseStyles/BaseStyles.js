@@ -2,7 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { createGlobalStyle } from 'styled-components'
 import { PublicUrl } from '../../providers/PublicUrl'
-import { INTER_FONT_FAMILY, BAIJAMJUREE_FONT_FAMILY } from '../../utils'
+import {
+  INTER_FONT_FAMILY,
+  BAIJAMJUREE_FONT_FAMILY,
+  DEFAULT_FONT_FAMILY,
+  MONOSPACE_FONT_FAMILY,
+} from '../../utils'
 import { textStyle } from '../../style'
 import { useTheme } from '../../theme'
 
@@ -14,6 +19,20 @@ import interLightWoff2 from './assets/inter/Inter-Light.woff2'
 import interRegularWoff2 from './assets/inter/Inter-Regular.woff2'
 import interSemiBoldWoff2 from './assets/inter/Inter-SemiBold.woff2'
 import interBoldWoff2 from './assets/inter/Inter-Bold.woff2'
+// import overpassLightWoff2 from './assets/overpass/overpass-light.woff2'
+// import overpassRegularWoff2 from './assets/overpass/overpass-regular.woff2'
+// import overpassSemiBoldWoff2 from './assets/overpass/overpass-semibold.woff2'
+// import overpassMonoLightWoff2 from './assets/overpass-mono/overpass-mono-light.woff2'
+
+// const DEFAULT_FONTS = {
+//   '400': { url: overpassLightWoff2, format: 'woff2' },
+//   '600': { url: overpassRegularWoff2, format: 'woff2' },
+//   '800': { url: overpassSemiBoldWoff2, format: 'woff2' },
+// }
+
+// const MONOSPACE_FONTS = {
+//   '400': { url: overpassMonoLightWoff2, format: 'woff2' },
+// }
 
 const INTER_FONTS = {
   '400': { url: interLightWoff2, format: 'woff2' },
@@ -80,11 +99,13 @@ function fontFaceDeclarations({ fontFamily, publicUrl }) {
       src: ${fontSrc(publicUrl, BAI_JAMJUREE_FONTS['800'])};
       font-weight: 800;
       font-style: normal;
+    }
     @font-face {
       font-family: ${BAIJAMJUREE_FONT_FAMILY};
       src: ${fontSrc(publicUrl, BAI_JAMJUREE_FONTS['900'])};
       font-weight: 900;
       font-style: normal;
+    }
   `
 }
 
