@@ -28,8 +28,8 @@ export default {
   warningSurface: '#656569',
   warningSurfaceContent: '#ffa410',
 
-  info: '#08BEE5',
-  infoSurface: '#6F82F566',
+  info: '#00d2ff',
+  infoSurface: '#6F82F5',
   infoSurfaceContent: '#B7C0FA',
 
   help: '#7C80F2',
