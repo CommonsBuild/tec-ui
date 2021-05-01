@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { IdentityBadge, DropDown, GU, unselectable } from '@tecommons/ui'
+import { IdentityBadge, DropDown, GU, unselectable } from '@commonsswarm/ui'
 
 const items = [
   'Strawberry',

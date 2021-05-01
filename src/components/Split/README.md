@@ -5,7 +5,7 @@
 ## Usage
 
 ```jsx
-import { Box, DataView, Main, Split } from '@tecommons/ui'
+import { Box, DataView, Main, Split } from '@commonsswarm/ui'
 
 function App() {
   return (

@@ -6,7 +6,7 @@ A slider component.
 
 ```jsx
 import { Component } from 'react'
-import { Slider } from '@tecommons/ui'
+import { Slider } from '@commonsswarm/ui'
 
 class App extends Component {
   state = {

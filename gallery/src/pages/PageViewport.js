@@ -1,5 +1,5 @@
 import React from 'react'
-import { Viewport } from '@tecommons/ui'
+import { Viewport } from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import readme from 'ui-src/providers/Viewport/README.md'
 

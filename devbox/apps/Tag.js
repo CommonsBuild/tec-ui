@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Box, IconCheck, Badge, Tag, GU } from '@tecommons/ui'
+import { Box, IconCheck, Badge, Tag, GU } from '@commonsswarm/ui'
 
 const ITEMS = new Map([
   [

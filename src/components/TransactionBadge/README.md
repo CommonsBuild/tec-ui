@@ -5,7 +5,7 @@ A component to get a badge based on a transaction.
 ## Usage
 
 ```jsx
-import { TransactionBadge } from '@tecommons/ui'
+import { TransactionBadge } from '@commonsswarm/ui'
 
 function App() {
   return <TransactionBadge transaction="0x281c36aee91…c31ef3fc115" />

@@ -1,9 +1,9 @@
 {
   "name": "@commonsswarm/ui",
   "version": "1.0.9",
-  "author": "TECommons",
+  "author": "commonsswarm",
   "license": "MIT",
-  "repository": "github:TECommons/ui",
+  "repository": "github:commonsswarm/ui",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
   "sideEffects": false,
@@ -125,9 +125,9 @@
   },
   "description": "<p> TEC UI it's a fork from AragonUI </p>",
   "bugs": {
-    "url": "https://github.com/TECommons/tec-ui/issues"
+    "url": "https://github.com/commonsswarm/tec-ui/issues"
   },
-  "homepage": "https://github.com/TECommons/tec-ui/#readme",
+  "homepage": "https://github.com/commonsswarm/tec-ui/#readme",
   "directories": {
     "doc": "docs"
   },

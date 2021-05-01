@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useTheme, textStyle, GU, RADIUS } from '@tecommons/ui'
+import { useTheme, textStyle, GU, RADIUS } from '@commonsswarm/ui'
 
 function StyledMarkdown(props) {
   const theme = useTheme()

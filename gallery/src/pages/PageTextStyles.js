@@ -7,7 +7,7 @@ import {
   textStyle,
   useLayout,
   TextCopy,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import readme from 'ui-docs/TextStyles.md'
 

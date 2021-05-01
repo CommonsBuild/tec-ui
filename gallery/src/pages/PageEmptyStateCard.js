@@ -2,7 +2,7 @@ import React from 'react'
 import Page from 'comps/Page/Page'
 
 import readme from 'ui-src/components/Card/EmptyStateCard.md'
-import { Button, EmptyStateCard } from '@tecommons/ui'
+import { Button, EmptyStateCard } from '@commonsswarm/ui'
 import Container from '../components/Page/DemoContainer'
 
 const PageEmptyStateCard = ({ title }) => (

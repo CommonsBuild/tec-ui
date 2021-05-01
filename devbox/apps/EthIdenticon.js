@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { EthIdenticon, blockExplorerUrl } from '@tecommons/ui'
+import { EthIdenticon, blockExplorerUrl } from '@commonsswarm/ui'
 import { createAddress } from '../create-address'
 
 class App extends React.Component {

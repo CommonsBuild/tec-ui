@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppView } from '@tecommons/ui'
+import { AppView } from '@commonsswarm/ui'
 import Lorem from '../components/Lorem'
 
 function App() {

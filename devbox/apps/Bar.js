@@ -1,5 +1,5 @@
 import React from 'react'
-import { Bar, BackButton, Button } from '@tecommons/ui'
+import { Bar, BackButton, Button } from '@commonsswarm/ui'
 
 export default () => (
   <div

@@ -7,7 +7,7 @@ checking for a pointer device rather than a keyboard event.
 ## Usage
 
 ```jsx
-import { FocusVisible } from '@tecommons/ui'
+import { FocusVisible } from '@commonsswarm/ui'
 
 function App() {
   return (

@@ -7,7 +7,7 @@ import {
   IconTrash,
   DataView,
   useTheme,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import { createAddress } from '../../create-address'
 import { multiplyArray, seedShuffleArray } from '../../utils'
 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { FloatIndicator } from '@tecommons/ui'
+import { FloatIndicator } from '@commonsswarm/ui'
 
 function App() {
   const [enabled, setEnabled] = useState(true)

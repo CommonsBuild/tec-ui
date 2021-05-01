@@ -5,7 +5,7 @@ A table component.
 ## Usage
 
 ```jsx
-import { Table, TableHeader, TableRow, TableCell, Text } from '@tecommons/ui'
+import { Table, TableHeader, TableRow, TableCell, Text } from '@commonsswarm/ui'
 
 const App = () => (
   <Table

@@ -5,7 +5,7 @@ A non-interactive component that can be used to display a small piece of informa
 ## Usage
 
 ```jsx
-import { Main, Tag } from '@tecommons/ui'
+import { Main, Tag } from '@commonsswarm/ui'
 
 function App() {
   return (

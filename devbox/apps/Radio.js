@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { RadioGroup, Radio, unselectable, useKeyDown } from '@tecommons/ui'
+import { RadioGroup, Radio, unselectable, useKeyDown } from '@commonsswarm/ui'
 import CheckboxDemo from './Checkbox'
 
 const items = [

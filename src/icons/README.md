@@ -7,7 +7,7 @@ You can see [the full list of icons](https://ui.aragon.org/icons/) on the websit
 ## Usage
 
 ```jsx
-import { Main, IconEdit } from '@tecommons/ui'
+import { Main, IconEdit } from '@commonsswarm/ui'
 
 function App() {
   return (

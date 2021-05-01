@@ -5,7 +5,7 @@ EmptyStateCard extends the Card component to represent an empty state in your ap
 ## Usage
 
 ```jsx
-import { Main, Button, EmptyStateCard } from '@tecommons/ui'
+import { Main, Button, EmptyStateCard } from '@commonsswarm/ui'
 
 function App() {
   return (

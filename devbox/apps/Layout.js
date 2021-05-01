@@ -1,5 +1,5 @@
 import React from 'react'
-import { Layout, useLayout } from '@tecommons/ui'
+import { Layout, useLayout } from '@commonsswarm/ui'
 
 function App() {
   const { layoutName, layoutWidth } = useLayout()

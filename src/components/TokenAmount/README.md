@@ -5,7 +5,7 @@ The Token Amount component is used to display a token logo followed by an amount
 ## Usage
 
 ```jsx
-import { TokenAmount } from '@tecommons/ui'
+import { TokenAmount } from '@commonsswarm/ui'
 
 function App() {
   return (

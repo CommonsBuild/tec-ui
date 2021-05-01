@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { AddressField, tokenIconUrl } from '@tecommons/ui'
+import { AddressField, tokenIconUrl } from '@commonsswarm/ui'
 
 function App() {
   console.log('ABC', tokenIconUrl('0x0000000000000000000000000000000000000000'))

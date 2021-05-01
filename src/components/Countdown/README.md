@@ -5,7 +5,7 @@ Displays a countdown.
 ## Usage
 
 ```jsx
-import { Countdown } from '@tecommons/ui'
+import { Countdown } from '@commonsswarm/ui'
 
 const DAY_IN_MS = 1000 * 60 * 60 * 24
 const endDate = new Date(Date.now() + 5 * DAY_IN_MS)

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Modal, Root } from '@tecommons/ui'
+import { Button, Modal, Root } from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import Container from 'comps/Page/DemoContainer'
 import readme from 'ui-src/components/Modal/README.md'

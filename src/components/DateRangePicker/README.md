@@ -6,7 +6,7 @@ A component for selecting a date range.
 
 ```jsx
 import React, { useState } from 'react'
-import { DateRangePicker } from '@tecommons/ui'
+import { DateRangePicker } from '@commonsswarm/ui'
 
 const DateRange = () => {
   const [range, setRange] = useState({

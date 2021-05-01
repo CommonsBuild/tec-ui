@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from '@tecommons/ui'
+import { Link } from '@commonsswarm/ui'
 
 import Page from 'comps/Page/Page'
 import DemoContainer from 'comps/Page/DemoContainer'

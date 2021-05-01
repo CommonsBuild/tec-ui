@@ -2,7 +2,7 @@ import React from 'react'
 import Page from 'comps/Page/Page'
 
 import readme from 'ui-src/components/Radio/RadioList.md'
-import { RadioList } from '@tecommons/ui'
+import { RadioList } from '@commonsswarm/ui'
 import Container from '../components/Page/DemoContainer'
 
 class PageRadioList extends React.Component {

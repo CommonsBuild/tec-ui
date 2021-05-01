@@ -6,7 +6,7 @@ import {
   ButtonBase,
   useTheme,
   useLayout,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import * as icons from '../all-icons'
 import { ToggleThemeButton } from '../components/current-theme'
 

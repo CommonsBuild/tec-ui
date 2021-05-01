@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Button, Popover, Root, useTheme } from '@tecommons/ui'
+import { Button, Popover, Root, useTheme } from '@commonsswarm/ui'
 
 const POSITIONS = [
   ['flex-start', 'flex-start'],

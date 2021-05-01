@@ -5,7 +5,7 @@ A component to get the Ethereum Identicon, an image that identifies Ethereum Acc
 ## Usage
 
 ```jsx
-import { IdentityBadge } from '@tecommons/ui'
+import { IdentityBadge } from '@commonsswarm/ui'
 
 function App() {
   return (

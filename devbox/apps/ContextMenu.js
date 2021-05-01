@@ -9,7 +9,7 @@ import {
   GU,
   textStyle,
   useTheme,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 
 const logAction = action => () => console.log(action)
 const actions = [

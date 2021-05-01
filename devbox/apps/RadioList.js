@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { RadioList, unselectable } from '@tecommons/ui'
+import { RadioList, unselectable } from '@commonsswarm/ui'
 
 const items = ['Strawberry', 'Banana', 'Apple', 'Cherry']
 

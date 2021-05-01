@@ -11,7 +11,7 @@ import {
   SidePanel,
   Tag,
   unselectable,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 
 const useItems = () => {
   const [items, setItems] = useState([1])

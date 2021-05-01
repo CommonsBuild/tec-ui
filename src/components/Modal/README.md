@@ -5,7 +5,7 @@ The `Modal` component is used to render a structured container for modal windows
 ## Usage
 
 ```jsx
-import { Modal, Button } from '@tecommons/ui'
+import { Modal, Button } from '@commonsswarm/ui'
 
 const App = () => {
   const [opened, setOpened] = useState(false)

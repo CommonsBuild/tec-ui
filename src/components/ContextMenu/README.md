@@ -5,7 +5,7 @@ A contextual menu.
 ## Usage
 
 ```jsx
-import { ContextMenu, ContextMenuItem } from '@tecommons/ui'
+import { ContextMenu, ContextMenuItem } from '@commonsswarm/ui'
 
 const App = () => (
   <ContextMenu>

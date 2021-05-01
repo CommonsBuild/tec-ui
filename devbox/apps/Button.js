@@ -10,7 +10,7 @@ import {
   Text,
   theme,
   GU,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 
 const MODES = ['normal', 'strong', 'positive', 'negative']
 const SIZES = ['medium', 'small', 'mini']

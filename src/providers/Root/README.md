@@ -5,7 +5,7 @@
 ## Usage
 
 ```jsx
-import { Root } from '@tecommons/ui'
+import { Root } from '@commonsswarm/ui'
 
 function App() {
   return (

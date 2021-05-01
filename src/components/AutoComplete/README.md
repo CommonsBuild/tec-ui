@@ -8,7 +8,7 @@ Another component `AutoCompleteSelected` offers the extra functionality to selec
 
 ```jsx
 import { useState } from 'react'
-import { _AutoComplete as AutoComplete } from '@tecommons/ui'
+import { _AutoComplete as AutoComplete } from '@commonsswarm/ui'
 
 const items = [
   'Bruce Wayne',

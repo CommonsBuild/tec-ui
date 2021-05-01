@@ -15,7 +15,7 @@ If you are unfamiliar with aragonUI, we recommend you to start with the [getting
 Install tecUI alongside styled-components from npm::
 
 ```sh
-npm install --save @tecommons/ui styled-components
+npm install --save @commonsswarm/ui styled-components
 ```
 
 Copy its assets into your public directory:
@@ -28,7 +28,7 @@ Wrap your app with the `Main` component:
 
 ```jsx
 import React from 'react'
-import { Main } from '@tecommons/ui'
+import { Main } from '@commonsswarm/ui'
 
 function App() {
   return (
@@ -58,7 +58,7 @@ By default, it will create a directory named `aragon-ui` in the specified direct
 This emplacement is communicated to the library through the `<Main>` component. The default path is `./aragon-ui/`, but you can change it using the `assetsUrl` prop:
 
 ```jsx
-import { Main } from '@tecommons/ui'
+import { Main } from '@commonsswarm/ui'
 
 const App = () => (
   <Main assetsUrl="http://example.com/aragon-ui-assets/">

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Split, Header, Help, GU, Link } from '@tecommons/ui'
+import { Box, Split, Header, Help, GU, Link } from '@commonsswarm/ui'
 
 function App() {
   return (

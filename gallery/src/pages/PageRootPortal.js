@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { RootPortal, Button } from '@tecommons/ui'
+import { RootPortal, Button } from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import Container from 'comps/Page/DemoContainer'
 import readme from 'ui-src/components/RootPortal/README.md'

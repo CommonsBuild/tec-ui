@@ -1,5 +1,5 @@
 import React from 'react'
-import { useTheme } from '@tecommons/ui'
+import { useTheme } from '@commonsswarm/ui'
 import { ToggleThemeButton } from '../components/current-theme'
 
 function SplitSurfaces({ primary, secondary, themeToggle = true, ...props }) {

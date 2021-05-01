@@ -5,7 +5,7 @@ A component to let users reveal content.
 ## Usage
 
 ```jsx
-import { Details } from '@tecommons/ui'
+import { Details } from '@commonsswarm/ui'
 
 function App() {
   return (

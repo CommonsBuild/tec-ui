@@ -8,7 +8,7 @@ import {
   Main,
   TextInput,
   Theme,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 
 function App() {
   const [theme, setTheme] = useState(Theme.EMBEDDED_THEMES.light)

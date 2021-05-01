@@ -5,7 +5,7 @@ A component for handling outside clicks.
 ## Usage
 
 ```jsx
-import { EscapeOutside } from '@tecommons/ui'
+import { EscapeOutside } from '@commonsswarm/ui'
 
 const App = () => (
   <EscapeOutside useCapture onEscapeOutside={handleOutsideInteraction}>

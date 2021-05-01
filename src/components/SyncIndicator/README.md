@@ -5,7 +5,7 @@ When active, indicates a syncing state.
 ## Usage
 
 ```jsx
-import { Main, SyncIndicator } from '@tecommons/ui'
+import { Main, SyncIndicator } from '@commonsswarm/ui'
 
 function App() {
   return (

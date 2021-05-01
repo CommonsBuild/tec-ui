@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { TransactionProgress, Popover, Root, Button, theme } from '@tecommons/ui'
+import { TransactionProgress, Popover, Root, Button, theme } from '@commonsswarm/ui'
 
 class App extends React.Component {
   state = {

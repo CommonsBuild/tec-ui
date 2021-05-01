@@ -5,7 +5,7 @@
 ## Usage
 
 ```jsx
-import { Box, Main, Split } from '@tecommons/ui'
+import { Box, Main, Split } from '@commonsswarm/ui'
 
 function App() {
   return (

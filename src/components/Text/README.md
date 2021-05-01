@@ -8,7 +8,7 @@ It is generally not necessary to use `<Text>` with the default properties:
 ## Usage
 
 ```jsx
-import { Text } from '@tecommons/ui'
+import { Text } from '@commonsswarm/ui'
 
 const App = () => (
   <Text>Some Text</Text>

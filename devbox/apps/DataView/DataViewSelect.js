@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react'
-import { IdentityBadge, DataView, useTheme } from '@tecommons/ui'
+import { IdentityBadge, DataView, useTheme } from '@commonsswarm/ui'
 import { createAddress } from '../../create-address'
 import { multiplyArray } from '../../utils'
 

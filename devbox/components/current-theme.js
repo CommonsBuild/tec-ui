@@ -1,5 +1,5 @@
 import React, { useCallback, useContext, useEffect, useState } from 'react'
-import { Theme, ButtonBase, useTheme } from '@tecommons/ui'
+import { Theme, ButtonBase, useTheme } from '@commonsswarm/ui'
 
 const CurrentThemeContext = React.createContext({})
 

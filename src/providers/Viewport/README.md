@@ -7,7 +7,7 @@ to help building responsive apps.
 ## Usage
 
 ```jsx
-import { useViewport } from '@tecommons/ui'
+import { useViewport } from '@commonsswarm/ui'
 
 const MyComponent = () => {
   const { within, below, above } = useViewport()

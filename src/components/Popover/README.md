@@ -7,7 +7,7 @@ A simple Popover component with basic styles. It gets rendered at the root level
 ### Positioning relative to the "opener"
 
 ```jsx
-import { Popover } from '@tecommons/ui'
+import { Popover } from '@commonsswarm/ui'
 
 function App() {
   const [visible, setVisible] = useState(false)

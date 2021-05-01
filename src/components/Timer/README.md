@@ -5,7 +5,7 @@ Displays a countdown or stopwatch.
 ## Usage
 
 ```jsx
-import { Timer } from '@tecommons/ui'
+import { Timer } from '@commonsswarm/ui'
 
 const NOW = Date.now()
 const DAY = 1000 * 60 * 60 * 24

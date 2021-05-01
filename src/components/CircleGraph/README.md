@@ -5,7 +5,7 @@ A circular graph component.
 ## Usage
 
 ```jsx
-import { CircleGraph } from '@tecommons/ui'
+import { CircleGraph } from '@commonsswarm/ui'
 
 const App = () => <CircleGraph value={1 / 3} />
 ```

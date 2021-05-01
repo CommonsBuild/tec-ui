@@ -9,7 +9,7 @@ import {
   SidePanel,
   Split,
   textStyle,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 
 function App() {
   const [panelOpened, setPanelOpened] = useState(false)

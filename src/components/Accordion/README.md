@@ -5,7 +5,7 @@ A simple accordion component.
 ## Usage
 
 ```jsx
-import { Main, Accordion } from '@tecommons/ui'
+import { Main, Accordion } from '@commonsswarm/ui'
 
 function App() {
   return (

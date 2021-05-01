@@ -9,7 +9,7 @@ Automatically subscribes to the `Observable` returned by `observe`, passing down
 ## Usage
 
 ```jsx
-import { observe } from '@tecommons/ui'
+import { observe } from '@commonsswarm/ui'
 import { Observable } from 'rxjs'
 
 class App extends React.Component {

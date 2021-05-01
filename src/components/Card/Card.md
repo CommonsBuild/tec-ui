@@ -5,7 +5,7 @@ A Card component.
 ## Usage
 
 ```jsx
-import { Main, Card } from '@tecommons/ui'
+import { Main, Card } from '@commonsswarm/ui'
 
 function App() {
   return (

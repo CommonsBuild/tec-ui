@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Box, Distribution } from '@tecommons/ui'
+import { Box, Distribution } from '@commonsswarm/ui'
 
 class App extends React.Component {
   render() {

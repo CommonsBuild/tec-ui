@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import ReactDOM from 'react-dom'
-import { Layout, Main, useContainsAppView } from '@tecommons/ui'
+import { Layout, Main, useContainsAppView } from '@commonsswarm/ui'
 import { CurrentTheme, useCurrentTheme } from './components/current-theme'
 
 import * as APPS from './apps'

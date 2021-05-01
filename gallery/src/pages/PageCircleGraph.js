@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Page from 'comps/Page/Page'
 
 import readme from 'ui-src/components/CircleGraph/README.md'
-import { Card, CircleGraph, Button } from '@tecommons/ui'
+import { Card, CircleGraph, Button } from '@commonsswarm/ui'
 
 const Container = styled.div`
   display: flex;

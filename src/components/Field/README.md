@@ -5,7 +5,7 @@ A wrapper component for form fields.
 ## Usage
 
 ```jsx
-import { Field } from '@tecommons/ui'
+import { Field } from '@commonsswarm/ui'
 
 const App = () => (
   <Field label="Enter name here:">

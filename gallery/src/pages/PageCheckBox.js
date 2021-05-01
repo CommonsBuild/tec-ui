@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Checkbox } from '@tecommons/ui'
+import { Checkbox } from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import Container from 'comps/Page/DemoContainer'
 import readme from 'ui-src/components/Input/Checkbox.md'

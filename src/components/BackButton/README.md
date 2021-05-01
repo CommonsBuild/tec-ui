@@ -5,7 +5,7 @@ A button used to go back to the previous screen. To be used with the `Bar` compo
 ## Usage
 
 ```jsx
-import { BackButton, Bar, Main } from '@tecommons/ui'
+import { BackButton, Bar, Main } from '@commonsswarm/ui'
 
 function App() {
   return (

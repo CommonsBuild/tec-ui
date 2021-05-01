@@ -1,5 +1,5 @@
 import React from 'react'
-import { TokenAmount, GU } from '@tecommons/ui'
+import { TokenAmount, GU } from '@commonsswarm/ui'
 
 function App() {
   return (

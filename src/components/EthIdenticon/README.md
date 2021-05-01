@@ -5,7 +5,7 @@ A component to get the Ethereum Identicon, an image that identifies Ethereum Acc
 ## Usage
 
 ```jsx
-import { EthIdenticon } from '@tecommons/ui'
+import { EthIdenticon } from '@commonsswarm/ui'
 
 const App = () => (
   <EthIdenticon

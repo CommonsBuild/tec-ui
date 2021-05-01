@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card } from '@tecommons/ui'
+import { Card } from '@commonsswarm/ui'
 import Page from 'comps/Page/Page'
 import Container from 'comps/Page/DemoContainer'
 import readme from 'ui-src/components/Card/Card.md'

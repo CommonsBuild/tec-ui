@@ -5,7 +5,7 @@ The aragonUI theme can be used to style your applications.
 ## Usage
 
 ```jsx
-import { theme } from '@tecommons/ui'
+import { theme } from '@commonsswarm/ui'
 
 const style = { color: theme.textPrimary }
 

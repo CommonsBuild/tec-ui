@@ -5,7 +5,7 @@
 ## Usage
 
 ```jsx
-import { Main, BackButton, Bar, Button, Box } from '@tecommons/ui'
+import { Main, BackButton, Bar, Button, Box } from '@commonsswarm/ui'
 
 function App() {
   return (

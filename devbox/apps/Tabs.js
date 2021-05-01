@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Tabs, GU } from '@tecommons/ui'
+import { Tabs, GU } from '@commonsswarm/ui'
 
 const ITEMS = ['One', 'Two', 'Three', 'Four', 'Five']
 

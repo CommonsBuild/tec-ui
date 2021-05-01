@@ -4,7 +4,7 @@ import readme from 'ui-src/components/AutoComplete/README.md'
 import {
   _AutoComplete as AutoComplete,
   _AutoCompleteSelected as AutoCompleteSelected,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import Container from '../components/Page/DemoContainer'
 
 const items = [

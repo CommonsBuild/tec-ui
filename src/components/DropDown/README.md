@@ -5,7 +5,7 @@ A DropDown component.
 ## Usage
 
 ```jsx
-import { DropDown } from '@tecommons/ui'
+import { DropDown } from '@commonsswarm/ui'
 
 function App() {
   const [selected, setSelected] = useState(0)

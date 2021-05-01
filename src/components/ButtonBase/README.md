@@ -5,7 +5,7 @@ A foundational component used to build other button-like components. When `href`
 ## Usage
 
 ```jsx
-import { LinkBase } from '@tecommons/ui'
+import { LinkBase } from '@commonsswarm/ui'
 
 function App() {
   return (

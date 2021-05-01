@@ -5,7 +5,7 @@ A component to navigate through paginated content.
 ## Usage
 
 ```jsx
-import { Box, Main, Pagination } from '@tecommons/ui'
+import { Box, Main, Pagination } from '@commonsswarm/ui'
 
 function App() {
   const [selected, setSelected] = useState(0)

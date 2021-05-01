@@ -29,10 +29,10 @@ To develop using it, you have to link aragonUI first:
 ```console
 # Assuming you are in the root aragon-ui directory (i.e. cd aragon-ui/)
 
-# Link @tecommons/ui locally and into the devbox package
+# Link @commonsswarm/ui locally and into the devbox package
 yarn link
 cd devbox/
-yarn link @tecommons/ui
+yarn link @commonsswarm/ui
 cd ../
 
 # Rebuild on change

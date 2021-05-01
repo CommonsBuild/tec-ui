@@ -6,7 +6,7 @@ A single-selection group of radios.
 
 ```jsx
 import { Component } from 'react'
-import { Radio, RadioGroup } from '@tecommons/ui'
+import { Radio, RadioGroup } from '@commonsswarm/ui'
 
 const RADIO_LABELS = ['First', 'Second', 'Third']
 

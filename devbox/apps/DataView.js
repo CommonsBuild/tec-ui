@@ -16,7 +16,7 @@ import {
   IdentityBadge,
   useTheme,
   noop,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import { createAddress } from '../create-address'
 import { createRandomInt, multiplyArray, seedShuffleArray } from '../utils'
 

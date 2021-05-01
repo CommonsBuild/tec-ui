@@ -5,7 +5,7 @@ Provides the base needed by the other components (styles and context providers) 
 ## Usage
 
 ```jsx
-import { Main } from '@tecommons/ui'
+import { Main } from '@commonsswarm/ui'
 
 function App () {
   return (

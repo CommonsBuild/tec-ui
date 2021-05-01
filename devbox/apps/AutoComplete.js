@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import {
   _AutoComplete as AutoComplete,
   _AutoCompleteSelected as AutoCompleteSelected,
-} from '@tecommons/ui'
+} from '@commonsswarm/ui'
 import { Center } from '../components/Center'
 
 const items = [

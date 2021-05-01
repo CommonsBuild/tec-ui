@@ -1,5 +1,5 @@
 import React from 'react'
-import { TokenBadge } from '@tecommons/ui'
+import { TokenBadge } from '@commonsswarm/ui'
 
 class App extends React.Component {
   render() {

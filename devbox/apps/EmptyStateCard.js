@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, EmptyStateCard } from '@tecommons/ui'
+import { Button, EmptyStateCard } from '@commonsswarm/ui'
 
 import emptyStatePng from '../assets/voting-empty-state.png'
 

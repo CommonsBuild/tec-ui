@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Button, LoadingRing } from '@tecommons/ui'
+import { Button, LoadingRing } from '@commonsswarm/ui'
 import { ToggleThemeButton } from '../components/current-theme'
 
 function App() {
