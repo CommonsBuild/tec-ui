@@ -4,7 +4,7 @@ import { Inside } from 'use-inside'
 import { useLayout } from '../Layout/Layout'
 import { GU } from '../../style'
 
-function Split({ primary, secondary, invert }) {
+function Split({ primary, secondary, invert, secondaryWidth }) {
   const { name: layout } = useLayout()
   const oneColumn = layout === 'small' || layout === 'medium'
 
@@ -32,7 +32,7 @@ function Split({ primary, secondary, invert }) {
         css={`
           flex-shrink: 0;
           flex-grow: 0;
-          width: ${oneColumn ? '100%' : `${33 * GU}px`};
+          width: ${oneColumn ? '100%' : secondaryWidth};
           margin-left: ${!oneColumn && !inverted ? 2 * GU : 0}px;
           padding-top: ${oneColumn && !inverted ? 2 * GU : 0}px;
         `}
@@ -62,10 +62,12 @@ Split.propTypes = {
   invert: PropTypes.oneOf(['none', 'horizontal', 'vertical']),
   primary: PropTypes.node,
   secondary: PropTypes.node,
+  secondaryWidth: PropTypes.oneOfType(['number', 'string']),
 }
 
 Split.defaultProps = {
   invert: 'none',
+  secondaryWidth: `${33 * GU}px`,
 }
 
 export { Split }

@@ -48,3 +48,11 @@ In single column mode, it appears below the `primary` slot, or above if `invert`
 | `"none"`, `"horizontal"` or `"vertical"` | `"none"`      |
 
 Invert the two slots, vertically or horizontally.
+
+### secondaryWidth
+
+| Type                 | Default value |
+| --------........---- | ------------- |
+| `Number` or `String` | ${33 * GU}px  |
+
+Width of the secondary column when both columns are displayed.
