@@ -2,11 +2,11 @@ export default {
   _name: 'dark',
   _appearance: 'dark',
 
-  background: '#0B0A15',
+  background: '#262626',
   border: '#434343',
   overlay: '#28334c',
   content: '#FFFFFF',
-  contentSecondary: '#FD40FE',
+  contentSecondary: '#a8a7a7',
 
   surface: '#434343',
   surfaceContent: '#FAFAFA',
@@ -42,7 +42,7 @@ export default {
   negativeSurface: '#655c72',
   negativeSurfaceContent: '#ff5454',
 
-  positive: '#0F2EEE',
+  positive: '#2cc68f',
   positiveContent: '#FFFFFF',
   positiveSurface: '#35585e',
   positiveSurfaceContent: '#2cc68f',
