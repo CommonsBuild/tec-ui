@@ -93,7 +93,7 @@ function CircleGraph({
 
   return (
     <Spring
-      from={{ opacity: 0 }}
+      from={{ opacity: 0, progressValue: 0 }}
       to={{ progressValue: value, opacity: visible ? 1 : 0 }}
       native
     >
