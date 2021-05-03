@@ -62,7 +62,7 @@ Split.propTypes = {
   invert: PropTypes.oneOf(['none', 'horizontal', 'vertical']),
   primary: PropTypes.node,
   secondary: PropTypes.node,
-  secondaryWidth: PropTypes.oneOfType(['number', 'string']),
+  secondaryWidth: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 }
 
 Split.defaultProps = {
