@@ -45,7 +45,6 @@ const MONOSPACE_FONTS = {
 }
 
 function fontSrc(publicUrl, { url, format }) {
-  console.log(`url(${publicUrl + url}) format('${format}')`)
   return `url(${publicUrl + url}) format('${format}')`
 }
 
