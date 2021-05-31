@@ -30,7 +30,7 @@ export default {
 
   info: '#00d2ff',
   infoSurface: '#6F82F5',
-  infoSurfaceContent: '#B7C0FA',
+  infoSurfaceContent: '#fffffff',
 
   help: '#7C80F2',
   helpContent: '#FFFFFF',
