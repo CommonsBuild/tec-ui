@@ -1,6 +1,6 @@
 {
   "name": "@commonsswarm/ui",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "author": "commonsswarm",
   "license": "MIT",
   "repository": "github:commonsswarm/ui",
@@ -14,7 +14,7 @@
     "dist/"
   ],
   "bin": {
-    "copy-aragon-ui-assets": "./bin/copy-aragon-ui-assets"
+    "copy-aragon-ui-assets": "bin/copy-aragon-ui-assets"
   },
   "scripts": {
     "build": "npm run icons:build && rollup -c",
