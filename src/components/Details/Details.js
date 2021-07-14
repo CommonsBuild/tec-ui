@@ -4,7 +4,7 @@ import { Spring, animated } from 'react-spring'
 import { useInside } from 'use-inside'
 import { GU, springs, textStyle } from '../../style'
 import { useTheme } from '../../theme'
-import { IconDown } from '../../icons'
+import { IconUp } from '../../icons'
 import ButtonBase from '../ButtonBase/ButtonBase'
 
 // Interpolate the elevation of the toggle from which the drawer slides down.
@@ -191,7 +191,7 @@ function Details({ children, label, onToggle, opened: openedProp, ...props }) {
                       justify-content: center;
                     `}
                   >
-                    <IconDown size="tiny" />
+                    <IconUp size="tiny" />
                   </div>
                 </animated.div>
               </div>
